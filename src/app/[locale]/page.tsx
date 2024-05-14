@@ -10,6 +10,9 @@ export default function Index() {
       <h1 className="py">
         {t("title")}
       </h1>
+      <h2>
+        {`${t("selected")}: ${locale}`}
+      </h2>
       <Link href={`${locale}/testView`}>
         {t("link")}
       </Link>

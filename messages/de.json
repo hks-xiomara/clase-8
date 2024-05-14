@@ -1,7 +1,8 @@
 {
     "Index": {
-      "title": "Hallo Welt! übersetzt",
-      "link":"Klicken Sie, um zur Route Test zu gelangen!"
+      "title": "Hallo Welt!",
+      "link":"Klicken Sie, um zum Routentest zu gelangen!",
+      "selected": "Ausgewählte Sprache"
     },
     "TestView":{
         "title":"WILLKOMMEN IN MEINER TESTANSICHT!"

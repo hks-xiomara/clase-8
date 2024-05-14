@@ -1,7 +1,8 @@
 {
     "Index": {
       "title": "Hello world!",
-      "link":"Click to go to the route test!"
+      "link":"Click to go to the route test!",
+      "selected": "Selected language"
     },
     "TestView":{
         "title":"WELCOME TO MY TEST VIEW!"
