@@ -1,0 +1,9 @@
+{
+    "Index": {
+      "title": "Hello world!",
+      "link":"Click to go to the route test!"
+    },
+    "TestView":{
+        "title":"WELCOME TO MY TEST VIEW!"
+    }
+  }
